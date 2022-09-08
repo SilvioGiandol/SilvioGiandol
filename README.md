@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Silvio 
-- 👀 I’m interested in Deep learning
-- 🌱 I’m currently learning visual servoing for manipulators
+- 👀 I’m interested in Mechatronics and Robotics
 - 📫 How to reach me: sg7178@nyu.edu
 
 <!---
